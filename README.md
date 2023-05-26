@@ -1,49 +1,41 @@
-![logo](https://github.com/mar-arp/marius-arpad/blob/main/The%20future.png)
-<h1 align="center">Hi 👋, I'm Marius Arpad</h1>
+### Hi there 👋 
+### This is Fernando Roldán!
 
-<p align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<h2 align="center">My Certifications Badges</h1>
-<p align="center"><a href="(https://comptia.org)" target="_blank" rel="noreferrer"> <img src="https://github.com/emsh93/emsh93/blob/main/NetworkPlus%20Logo%20Certified%20CE.png" alt="bash" width="40" height="40"/> </a> <a href="(https://www.siemens.com/global/en.html)" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/19bfec66-2453-4e67-be25-eea175ad1130/38b3474b30521af47cf66d0e8f130cdc.png" alt="bash" width="40" height="40"/> </a></p>
-<h2 align="center">My Gaming Interests</h1>
-<p align="center"><a href="https://www.ageofempires.com/" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/675-6755480_age-of-empires-series-wiki-age-of-empires.png" alt="bash" width="40" height="40"/> </a></p>
-</a>
-<h2 align="center">Soft Skills</h2>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 
-<p align="center">
-    Problem-Solving | Communication | Teamwork | Adaptability | Attention to Detail
+Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
+
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+
+
+#### 🌱 Things I am currently working on: 
+- Finish my Computer Engineering Master Degree  
+- Taking online courses about Data Science and Machine Learning 
+- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Coding at least 4 hours a day
+- Exercising 3 days a week
+- Improving my CV with some education apart from university
+
+#### :computer: Programming languages and tools: 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
-<h2 align="center">Key Skills</h2>
-<p align="center">
-    Coding | Game Development | Networking | Cybersecurity | Problem-Solving | Collaboration
-</p>
-</a>
 
-<h3 align="center">A passionate Networker and Pentester from Germany!</h3>
-
-
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marius-arpad&label=Profile%20views&color=0e75b6&style=flat" alt="marius-arpad" /> </p>
-
-
-
-- 🔭 I’m currently working on **Networking**
-
-
-- 🌱 I’m currently learning **IT-Fachkaft für Industrie 4.0 on https://www.smartindustrycampus.de/**
-
-
-- 📫 How to reach me **mariusarpad@gmail.com**
-
-
-- ⚡ Fun fact **Cybersecurity expert extraordinaire!**
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mar-arp&show_icons=true&locale=en&layout=compact" alt="mar-ar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mar-arp&show_icons=true&locale=en" alt="mar-arp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mar-arp&" alt="mar-arp" /></p>
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>

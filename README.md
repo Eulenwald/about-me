@@ -1,41 +1,22 @@
-### Hi there 👋 
-### This is Fernando Roldán!
+# Über mich
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+Hallo, ich bin Andreas Uhlenbrock, 55 Jahre alt, und ich bringe eine vielseitige kaufmännische Erfahrung und Softwareprogrammierung mit. In meinen 20ern betrieb ich ein Kino und sammelte Erfahrungen in den Bereichen Service, Planung und Filmtechnik. Meine Leidenschaft für Technik und Logik begleitet mich mein ganzes Leben. In meiner Freizeit löse ich gerne Rätsel, wie den Rubik's Zauberwürfel.
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
+## Erfahrungen
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+- Softwareprogrammierung: C/C++, Visual C++, QT4, Java, PHP, Pearl, XML/JSON, JavaScript, JQuery, AJAX, DOM, X/HTML, CSS
+- Betriebssysteme: Dos, Windows 3.0 - 11, PalmOS
+- Datenbanken: SQL, MySql, SQLite, Access, Interbase
+- Weitere: PHP-Grundkenntnisse, Apache xampp, Android, Pascal, Actionscript 3, Flash, Node.js, React.js, Docker
 
+Nach meiner Ausbildung als Fachinformatiker arbeitete ich als Programmierer und erweiterte meine Programmiererfahrungen. Aus persönlichen Gründen wechselte ich ins Büromanagement, erweiterte meine organisatorischen Fähigkeiten und erwarb zahlreiche neue Fähigkeiten. Dennoch erstellte ich weiterhin Programme zur Dokumentation und Websites für meine Arbeitgeber.
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+## Umschulung und Weiterbildung
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+Aufgrund meiner natürlichen Zahlenaffinität absolvierte ich eine Umschulung zum Buchhalter, musste jedoch feststellen, dass meine kreative Ader in der Buchhaltung austrocknen würde. Daher strebe ich die Rückkehr zur Softwareentwicklung an, um meinem Ideenfluss freien Lauf zu lassen. Zur Überprüfung meiner IT-Kenntnisse absolvierte ich eine Weiterbildung zur Fachkraft für Digitale Vernetzung am Smart Industry Campus. Die Umschulung behandelte verschiedene IT-Themen, darunter Automatisierungstechnik, SPS, Robotic, Python, Datenbanken und Netzwerkadministration. Während dieser Zeit realisierte ich mehrere selbstständige Projekte, darunter die Schaffung meiner eigenen automatisierten Welt, in der alle Daten auf einem Server in einer Datenbank gespeichert werden.
 
-#### :computer: Programming languages and tools: 
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+## Interessen und Ausblick
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
+Ich bin stets interessiert an Weiterbildungen und der Überprüfung meiner Softwareskills, da ich furchtbar gerne Neues lerne. Gerne würde ich an Trainees zur Jobvorbereitung teilnehmen.
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+Fühle dich frei, mich zu kontaktieren und mehr über meine spannende Reise in der IT zu erfahren!
